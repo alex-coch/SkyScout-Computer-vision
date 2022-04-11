@@ -1,0 +1,4 @@
+REP-Model: A deep learning framework
+https://ieeexplore.ieee.org/document/9327950 - no sources
+
+Billboard-based Free-viewpoint Video https://drive.google.com/drive/folders/1fan86iI5FDrSsO2_kjOLhiAfnZAukIAy
