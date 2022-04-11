@@ -1,1 +1,1 @@
-# SkyScout-Computer-vision
+# Computer vision projects at SkyScout
