@@ -1,4 +1,10 @@
 REP-Model: A deep learning framework
-https://ieeexplore.ieee.org/document/9327950 - no sources
+https://ieeexplore.ieee.org/document/9327950 - sources: https://github.com/s172444s/soccer_billboard_replacement
 
 Billboard-based Free-viewpoint Video https://drive.google.com/drive/folders/1fan86iI5FDrSsO2_kjOLhiAfnZAukIAy
+
+this solution https://drive.google.com/drive/folders/1R8yZunYkAjkcdGFxsI_aqBi4US_JseQr?usp=sharing is build with Mathlab
+
+2 notebooks
+https://drive.google.com/file/d/1ZGfAP4WiB8ZZUE-wTaZHuNgOjyGLxB02/view?usp=sharing 
+https://drive.google.com/file/d/14Gw9z2cvcFpKigkAtRve49pazTHp8UsB/view?usp=sharing 
